@@ -1,4 +1,4 @@
-# Churn_Model
+# Customer Churn Analysis and Prediction
 
 ## Tasks
 
